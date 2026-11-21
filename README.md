@@ -1,6 +1,10 @@
-# Automation Forge — releases
+<p align="center"><a href="https://kovati.dev"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/social.jpg" width="100%" alt="Kovati: production tools for Unreal games" /></a></p>
 
-Downloadable builds of the **free** Automation Forge plugins for Unreal Engine 5.8, one release per plugin version, packaged per engine version (`<Plugin>-<version>-UE5.8-Win64.zip`, with symbols in a separate zip).
+# Kovati releases
+
+Downloadable builds of the **free** [Kovati](https://kovati.dev) plugins for Unreal Engine 5.8, one release per plugin version, packaged per engine version (`<Plugin>-<version>-UE5.8-Win64.zip`, with symbols in a separate zip).
+
+Most people never download from here: the [Kovati Hub](https://kovati.dev/download/) installs and updates every plugin with one click.
 
 Binaries only. The source of every open plugin lives in that plugin's own repository under this organisation; everything else is closed, and its implementation stays in the private monorepo.
 
